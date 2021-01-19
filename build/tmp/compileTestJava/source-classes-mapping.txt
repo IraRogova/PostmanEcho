@@ -1,2 +1,0 @@
-ru/netology/PostmanEchoTest.java
- ru.netology.PostmanEchoTest
